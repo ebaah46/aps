@@ -1,0 +1,264 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:1:1-36:12
+INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:1:1-36:12
+MERGED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:1:1-36:12
+MERGED from [:location_permissions] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/location_permissions/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-14:12
+MERGED from [:image_picker] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-22:12
+MERGED from [:geolocator] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/geolocator/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-9:12
+MERGED from [:slide_button] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/slide_button/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [:google_api_availability] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/google_api_availability/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/739be8c7dca1547c693394ab957da234/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/4195a17407ed740faa544c5966335332/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1737c992f3fbf1c6914654a048e127e2/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/9fcfd1f426912ed5c63279ff8b766776/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/4ab538bb9ddd54fa5c0c3c07a0f1afd9/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/e84f983dffe7d9cf34487b97f69b3d24/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-rc01.aar/5086825b80a28bad82e4fc0ffe3a62d7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/824214a3e57c9374fb61417cfad79323/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/4dea3d538519f37ac32b36a26fd27d41/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/8f6afc36c5b6673fdb163fcf6e25bf1a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/8c8af20b7c149e43bc8a25de6e0d6047/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/e9481a1b3e03af1f42e6bbf8a6267553/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/bca99990a4f615cc605e7e16be457942/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/7315dde6fc81fa4467eeb95e53a0f836/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/f5acf66674fca76aba0ae41a109eab56/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/48c1980f483fd20d19b943a67ce65223/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/005d3fdbcd5d5e5beca71974a2324e03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/1b782f51c9899d4b50025333f4b94d23/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/746d97f768f6a1ec1cc0d3f2d5fe4747/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.2] /Users/beks/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/5706a03f22b0f027103e64bcc68d0ef7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/4adf943bd8edd8fb3f545b6f2908addf/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/fee69dcf0d9dfde1514625c187eb3738/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/8656626cf5a7bcf6447fc913c212fd24/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/373ba2d23f120265e7bd04a902fcac70/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/87797aef70b31562c40d90d6709bf6eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/558d863a6544623d1e71c9130a2b9acc/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/9b73966c99cecc640238a988037a7fe9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/21bf28fe361a02ea131e19d526758386/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/d05722326bc8994aeb57396dd9fd28b8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/7d106389588bb1a8b6ee0e4b4f959212/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:2:5-36
+		INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:1:1-36:12
+		INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:9:5-78
+MERGED from [:geolocator] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/geolocator/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-79
+MERGED from [:geolocator] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/geolocator/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:10:5-66
+MERGED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:10:5-66
+MERGED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:11:22-78
+application
+ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:12:5-35:19
+MERGED from [:url_launcher] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-12:19
+MERGED from [:image_picker] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:5-20:19
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/4195a17407ed740faa544c5966335332/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/4195a17407ed740faa544c5966335332/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1737c992f3fbf1c6914654a048e127e2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1737c992f3fbf1c6914654a048e127e2/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/9fcfd1f426912ed5c63279ff8b766776/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/9fcfd1f426912ed5c63279ff8b766776/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/4ab538bb9ddd54fa5c0c3c07a0f1afd9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/4ab538bb9ddd54fa5c0c3c07a0f1afd9/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/e84f983dffe7d9cf34487b97f69b3d24/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/e84f983dffe7d9cf34487b97f69b3d24/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.2] /Users/beks/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/5706a03f22b0f027103e64bcc68d0ef7/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.2] /Users/beks/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/5706a03f22b0f027103e64bcc68d0ef7/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/4adf943bd8edd8fb3f545b6f2908addf/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/4adf943bd8edd8fb3f545b6f2908addf/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.2] /Users/beks/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/5706a03f22b0f027103e64bcc68d0ef7/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:14:9-34
+	android:icon
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:15:9-43
+	android:name
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:13:9-57
+activity#com.example.aps_final.MainActivity
+ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:16:9-34:20
+	android:launchMode
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:18:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:21:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:22:13-55
+	android:configChanges
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:20:13-144
+	android:theme
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:19:13-47
+	android:name
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:17:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:27:13-29:40
+	android:value
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:29:17-37
+	android:name
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:28:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml:32:27-74
+uses-sdk
+INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml
+MERGED from [:location_permissions] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/location_permissions/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:location_permissions] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/location_permissions/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/geolocator/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:geolocator] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/geolocator/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:slide_button] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/slide_button/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:slide_button] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/slide_button/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/google_api_availability/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [:google_api_availability] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/google_api_availability/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:5:5-44
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/739be8c7dca1547c693394ab957da234/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/multidex-2.0.0.aar/739be8c7dca1547c693394ab957da234/AndroidManifest.xml:20:5-43
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/4195a17407ed740faa544c5966335332/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-location-16.0.0.aar/4195a17407ed740faa544c5966335332/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1737c992f3fbf1c6914654a048e127e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1737c992f3fbf1c6914654a048e127e2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/9fcfd1f426912ed5c63279ff8b766776/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-16.0.0.aar/9fcfd1f426912ed5c63279ff8b766776/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/4ab538bb9ddd54fa5c0c3c07a0f1afd9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-tasks-16.0.1.aar/4ab538bb9ddd54fa5c0c3c07a0f1afd9/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/e84f983dffe7d9cf34487b97f69b3d24/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/e84f983dffe7d9cf34487b97f69b3d24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-rc01.aar/5086825b80a28bad82e4fc0ffe3a62d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/legacy-support-v4-1.0.0-rc01.aar/5086825b80a28bad82e4fc0ffe3a62d7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/824214a3e57c9374fb61417cfad79323/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/media-1.0.0-rc01.aar/824214a3e57c9374fb61417cfad79323/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/4dea3d538519f37ac32b36a26fd27d41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/fragment-1.0.0-rc01.aar/4dea3d538519f37ac32b36a26fd27d41/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/8f6afc36c5b6673fdb163fcf6e25bf1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/legacy-support-core-ui-1.0.0-rc01.aar/8f6afc36c5b6673fdb163fcf6e25bf1a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/8c8af20b7c149e43bc8a25de6e0d6047/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/legacy-support-core-utils-1.0.0-rc01.aar/8c8af20b7c149e43bc8a25de6e0d6047/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/e9481a1b3e03af1f42e6bbf8a6267553/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/loader-1.0.0-rc01.aar/e9481a1b3e03af1f42e6bbf8a6267553/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/bca99990a4f615cc605e7e16be457942/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0-rc01.aar/bca99990a4f615cc605e7e16be457942/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/7315dde6fc81fa4467eeb95e53a0f836/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-1.0.0-rc01.aar/7315dde6fc81fa4467eeb95e53a0f836/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/f5acf66674fca76aba0ae41a109eab56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/drawerlayout-1.0.0-rc01.aar/f5acf66674fca76aba0ae41a109eab56/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/48c1980f483fd20d19b943a67ce65223/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-1.0.0-rc01.aar/48c1980f483fd20d19b943a67ce65223/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/005d3fdbcd5d5e5beca71974a2324e03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/customview-1.0.0-rc01.aar/005d3fdbcd5d5e5beca71974a2324e03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/1b782f51c9899d4b50025333f4b94d23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-1.0.0-rc01.aar/1b782f51c9899d4b50025333f4b94d23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/746d97f768f6a1ec1cc0d3f2d5fe4747/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-1.0.0-rc01.aar/746d97f768f6a1ec1cc0d3f2d5fe4747/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/beks/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/5706a03f22b0f027103e64bcc68d0ef7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.2] /Users/beks/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/5706a03f22b0f027103e64bcc68d0ef7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/4adf943bd8edd8fb3f545b6f2908addf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.0.0.aar/4adf943bd8edd8fb3f545b6f2908addf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/fee69dcf0d9dfde1514625c187eb3738/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/beks/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.0.0.aar/fee69dcf0d9dfde1514625c187eb3738/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/8656626cf5a7bcf6447fc913c212fd24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0-rc01.aar/8656626cf5a7bcf6447fc913c212fd24/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/373ba2d23f120265e7bd04a902fcac70/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0-rc01.aar/373ba2d23f120265e7bd04a902fcac70/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/87797aef70b31562c40d90d6709bf6eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/documentfile-1.0.0-rc01.aar/87797aef70b31562c40d90d6709bf6eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/558d863a6544623d1e71c9130a2b9acc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-1.0.0-rc01.aar/558d863a6544623d1e71c9130a2b9acc/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/9b73966c99cecc640238a988037a7fe9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/print-1.0.0-rc01.aar/9b73966c99cecc640238a988037a7fe9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/21bf28fe361a02ea131e19d526758386/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/interpolator-1.0.0-rc01.aar/21bf28fe361a02ea131e19d526758386/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/d05722326bc8994aeb57396dd9fd28b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/cursoradapter-1.0.0-rc01.aar/d05722326bc8994aeb57396dd9fd28b8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/7d106389588bb1a8b6ee0e4b4f959212/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0-rc01] /Users/beks/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.0.0-rc01.aar/7d106389588bb1a8b6ee0e4b4f959212/AndroidManifest.xml:20:5-44
+INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/beks/Me/Prog/flutter/Projects/aps_final/android/app/src/debug/AndroidManifest.xml
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/url_launcher/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:9:13-74
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from [:image_picker] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from [:image_picker] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from [:image_picker] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:8:22-78
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:12:13-82
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:image_picker] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:16:13-18:75
+	android:resource
+		ADDED from [:image_picker] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:18:17-72
+	android:name
+		ADDED from [:image_picker] /Users/beks/Me/Prog/flutter/Projects/aps_final/build/image_picker/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:17:17-67
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1737c992f3fbf1c6914654a048e127e2/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1737c992f3fbf1c6914654a048e127e2/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1737c992f3fbf1c6914654a048e127e2/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/1737c992f3fbf1c6914654a048e127e2/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/e84f983dffe7d9cf34487b97f69b3d24/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/e84f983dffe7d9cf34487b97f69b3d24/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] /Users/beks/.gradle/caches/transforms-1/files-1.1/jetified-play-services-basement-16.0.1.aar/e84f983dffe7d9cf34487b97f69b3d24/AndroidManifest.xml:24:13-58

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/android.iml" filepath="$PROJECT_DIR$/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.1.3/android/geolocator-5.1.3-geolocator.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-5.1.3/android/geolocator-5.1.3-geolocator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.1/android/google_api_availability.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/google_api_availability-2.0.1/android/google_api_availability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.1+1/android/image_picker-0.6.1+1-image_picker.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.6.1+1/android/image_picker-0.6.1+1-image_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.2/android/location_permissions.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/location_permissions-2.0.2/android/location_permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.1.2/android/url_launcher-5.1.2-url_launcher.iml" filepath="$PROJECT_DIR$/../../../flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.1.2/android/url_launcher-5.1.2-url_launcher.iml" />
+    </modules>
+  </component>
+</project>
