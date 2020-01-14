@@ -19,7 +19,7 @@ This is project is the mobile version of the Ambulance and Paramedic System(APS)
 
 ## Getting Started
 
-This mobile version of the project is fully dependent on the flutter framework. If you are new to flutter, checkout [Get Started](https://flutter.dev/docs/get-started/install) to install.
+This mobile version of the project is fully dependent on the flutter framework. If you are new to flutter, checkout [Get Started](https://flutter.dev/docs/get-started/install) to setup flutter on your local machine.
 
 ## Installing 
 
