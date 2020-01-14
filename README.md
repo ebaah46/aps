@@ -11,7 +11,7 @@ This is project is the mobile version of the Ambulance and Paramedic System(APS)
  + Electical shock
  + and more.
  
- The estimated time for the closest paramedic unit to reach your locality is then scheduled as a countdown on your screen while some tips related to the accident are adviced.
+ The estimated time for the closest paramedic unit to reach your locality is then scheduled as a countdown on your screen while some tips related to the accident are displayed on the screen.
 
 ## Prerequisites
  
