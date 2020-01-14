@@ -25,7 +25,7 @@ This mobile version of the project is fully dependent on the flutter framework. 
 Run the following commands to build a release apk.
 ```
   
-  cd /aps_final
+  cd /aps
   flutter pub get
   flutter run --release
  ```
